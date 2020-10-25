@@ -9,7 +9,7 @@
 1. XAMPP
 2. Web Browser
 
-### Installing
+### Installation
 
 ```
 Clone/Download Zip
@@ -29,7 +29,8 @@ Go to this project directory
 ```
 type 'php artisan migrate'
 ```
-```
+
+
 
 ### Modules
 
@@ -37,18 +38,14 @@ type 'php artisan migrate'
 2. User
 
 
-### coding style 
-MVC Architecture
+## Coding Style
 
-
+* MVC Architecture
 
 ## Built With
-
 * Laravel- PHP framework
 * XAMPP - PHP development environment
 * MySQL - Database
-
-## Contributing
 
 ### Create a branch
 
@@ -64,8 +61,6 @@ MVC Architecture
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Comfortable UI.
+* comfortable UI.
 * Best application for beginners.
-* Inspiration
 * etc
